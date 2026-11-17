@@ -1,0 +1,7 @@
+repository = "https://github.com/jhzhang09/apifox-helper-openidea"
+suggest = ["pom.xml", "build.gradle", "build.gradle.kts"]
+
+[[versions]]
+version = "0.1.12"
+package = "https://github.com/jhzhang09/apifox-helper-openidea/releases/download/v0.1.12/jhzhang.apifox-helper-0.1.12.oiplugin"
+sha256 = "d942e59301ee83e5e48e25848bab28c6fc0f44ae1e41239f06ebba14a0de8ad4"
