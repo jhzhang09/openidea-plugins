@@ -17,6 +17,6 @@ package = "https://github.com/jhzhang09/apifox-helper-openidea/releases/download
 sha256 = "4f24f66684df325f270398197e3af83ac5e926c8da58c6bfdb37fa24dcb36a75"
 
 [[versions]]
-version = "0.1.17"
-package = "https://github.com/jhzhang09/apifox-helper-openidea/releases/download/v0.1.17/jhzhang.apifox-helper-0.1.17.oiplugin"
-sha256 = "7e400d6582c1a16cc5a27d8713569c0bd3d3c36021483ec9217815d8e10bfa86"
+version = "0.1.18"
+package = "https://github.com/jhzhang09/apifox-helper-openidea/releases/download/v0.1.18/jhzhang.apifox-helper-0.1.18.oiplugin"
+sha256 = "faedc8c4bc479916a1dccad36da984d06f41a9c2032a43e040c1fd0dc92d1a85"
