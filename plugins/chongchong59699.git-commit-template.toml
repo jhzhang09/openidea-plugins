@@ -1,0 +1,6 @@
+repository = "https://github.com/chongchong59699/openidea-git-commit-template"
+
+[[versions]]
+version = "1.4.0"
+package = "https://github.com/chongchong59699/openidea-git-commit-template/releases/download/v1.4.0/chongchong59699.git-commit-template-1.4.0.oiplugin"
+sha256 = "a86e6644999059aa92a13afe010e09ef249d97118be86f5df0652bc45574072c"
